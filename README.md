@@ -1,4 +1,4 @@
-# Pixel Cat Maker
+# Pixel Cat Maker - Tint Expansion
 
 Dollmaker that uses sprites from ClanGen.
 
